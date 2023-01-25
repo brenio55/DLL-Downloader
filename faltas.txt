@@ -1,0 +1,17 @@
+['', '', 'DIAGNOSTICDATASETTINGS.DLL', '', 'DMENROLLENGINE.DLL', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'ENTERPRISERESOURCEMANAGER.DLL', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'MOBILENETWORKING.DLL', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'NRTAPI.DLL', '', '', '', '', '', '', '', '', '', '', 'PRINT.PRINTSUPPORT.SOURCE.DLL', '', '', '', 'PRXYQRY.DLL', '', '', '', '', '', '', '', '', '', '', 'SERVICINGCOMMON.DLL', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'UNENROLLHOOK.DLL', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'WINSPOOL.DRV']140
+
+
+DIAGNOSTICDATASETTINGS.DLL
+DMENROLLENGINE.DLL - ok
+ENTERPRISERESOURCEMANAGER.DLL - ok
+
+MOBILENETWORKING.DLL - ok
+NRTAPI.DLL
+
+PRINT.PRINTSUPPORT.SOURCE.DLL
+PRXYQRY.DLL
+SERVICINGCOMMON.DLL
+UNENROLLHOOK.DLL - ok
+
+WINSPOOL.DRV['', '', 'DIAGNOSTICDATASETTINGS.DLL']1
+['', '', 'DIAGNOSTICDATASETTINGS.DLL', '', 'DMENROLLENGINE.DLL']3
